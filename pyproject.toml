@@ -1,0 +1,24 @@
+[project]
+name = "project1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "gradio>=5.34.2",
+    "ipywidgets>=8.1.7",
+    "jupyterlab>=4.4.3",
+    "kagglehub>=0.3.12",
+    "langchain>=0.3.26",
+    "langchain-chroma>=0.2.4",
+    "langchain-community>=0.3.26",
+    "langchain-huggingface>=0.3.0",
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.3",
+    "pandas>=2.3.0",
+    "python-dotenv>=1.1.0",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=4.1.0",
+    "transformers>=4.52.4",
+]
